@@ -1,0 +1,5 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="100" fill="#e0e0ff"/>
+  <text x="100" y="100" font-family="Arial" font-size="16" text-anchor="middle">Michael C.</text>
+  <text x="100" y="120" font-family="Arial" font-size="12" text-anchor="middle">UI/UX Designer</text>
+</svg> 
